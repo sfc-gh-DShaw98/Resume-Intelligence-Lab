@@ -42,6 +42,6 @@ By the end of this lab, you’ll have an end-to-end pipeline that:
 2. [Part 1: Document AI Training](https://github.com/sfc-gh-DShaw98/Resume-Intelligence-Lab/blob/main/Part%201%3A%20Document%20AI%20Training.md)
 3. [Part 2: Fine-Tune Document AI Model](https://github.com/sfc-gh-DShaw98/Resume-Intelligence-Lab/blob/main/Part%202%3A%20Fine-Tune%20Document%20AI%20Model.md)
 4. [Part 3: Assess Document AI Results](https://github.com/sfc-gh-DShaw98/Resume-Intelligence-Lab/blob/main/Part%203%3A%20Assess%20Document%20AI%20Results.md)
-5. [Part 4: Use PREDICT to Extract Text](#part-4-use-predict-to-extract-text)
+5. [Part 4: Use PREDICT to Extract Text](https://github.com/sfc-gh-DShaw98/Resume-Intelligence-Lab/blob/main/Part%204%3A%20Use%20PREDICT%20to%20Extract%20Text.md)
 6. [Part 5: Build a Continuous Extracting Pipeline](#part-5-build-a-continuous-extracting-pipeline)
 7. [Part 6: Streamlit App to Visualize Extracted Data](#part-6-streamlit-app-to-visualize-extracted-data)
