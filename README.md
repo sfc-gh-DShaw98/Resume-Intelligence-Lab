@@ -40,7 +40,7 @@ By the end of this lab, you’ll have an end-to-end pipeline that:
 
 1. [Setup (Roles, Database, Schema, Stage)](https://github.com/sfc-gh-DShaw98/Resume-Intelligence-Lab/blob/main/Setup%20(Roles%2C%20Database%2C%20Schema%2C%20Stage).md)
 2. [Part 1: Document AI Training](https://github.com/sfc-gh-DShaw98/Resume-Intelligence-Lab/blob/main/Part%201%3A%20Document%20AI%20Training.md)
-3. [Part 2: Fine-Tune Document AI Model](#part-2-fine-tune-document-ai-model)
+3. [Part 2: Fine-Tune Document AI Model](https://github.com/sfc-gh-DShaw98/Resume-Intelligence-Lab/blob/main/Part%202%3A%20Fine-Tune%20Document%20AI%20Model.md)
 4. [Part 3: Assess Document AI Results](#part-3-assess-document-ai-results)
 5. [Part 4: Use PREDICT to Extract Text](#part-4-use-predict-to-extract-text)
 6. [Part 5: Build a Continuous Extracting Pipeline](#part-5-build-a-continuous-extracting-pipeline)
