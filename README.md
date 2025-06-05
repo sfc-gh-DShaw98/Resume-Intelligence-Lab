@@ -17,3 +17,31 @@ By the end of this lab, you’ll have an end-to-end pipeline that:
 3. Pushes that data into a Snowflake table,  
 4. Employs a Stream‐and‐Task workflow so new résumé entries are immediately processed, and  
 5. Exposes results via a Streamlit app for real‐time dashboards and simple CRUD operations.
+
+## Prerequisites
+
+**Snowflake Account with the following:**
+
+- A warehouse (e.g. `COMPUTE_WH`).
+- Privileges to create databases, schemas, stages, roles, and Streamlit apps.
+- The Snowflake Cortex capability (Document AI) enabled in your account.
+
+**Client Tools:**
+
+- Access to the Snowflake.
+
+**Sample Files:**
+
+- A folder containing 13 sample resumes (e.g. `Ex1.pdf` through `Ex13.pdf`) and 2 test resumes (e.g. `Test1.pdf` and `Test2.pdf`). You can replace these with your own PDFs at any time.
+
+---
+
+## Table of Contents
+
+1. [Setup (Roles, Database, Schema, Stage)](#setup-roles-database-schema-stage)
+2. [Part 1: Document AI Training](#part-1-document-ai-training)
+3. [Part 2: Fine-Tune Document AI Model](#part-2-fine-tune-document-ai-model)
+4. [Part 3: Assess Document AI Results](#part-3-assess-document-ai-results)
+5. [Part 4: Use PREDICT to Extract Text](#part-4-use-predict-to-extract-text)
+6. [Part 5: Build a Continuous Extracting Pipeline](#part-5-build-a-continuous-extracting-pipeline)
+7. [Part 6: Streamlit App to Visualize Extracted Data](#part-6-streamlit-app-to-visualize-extracted-data)
