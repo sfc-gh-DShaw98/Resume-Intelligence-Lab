@@ -38,7 +38,7 @@ By the end of this lab, you’ll have an end-to-end pipeline that:
 
 ## Table of Contents
 
-1. [Setup (Roles, Database, Schema, Stage)](#setup-roles-database-schema-stage)
+1. [Setup (Roles, Database, Schema, Stage)](https://github.com/sfc-gh-DShaw98/Resume-Intelligence-Lab/blob/main/Setup%20(Roles%2C%20Database%2C%20Schema%2C%20Stage).md)
 2. [Part 1: Document AI Training](#part-1-document-ai-training)
 3. [Part 2: Fine-Tune Document AI Model](#part-2-fine-tune-document-ai-model)
 4. [Part 3: Assess Document AI Results](#part-3-assess-document-ai-results)
