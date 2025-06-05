@@ -16,6 +16,7 @@ USE ROLE DOC_AI_ROLE;
 - Click **Create**.
 
 3. **Upload the 13 sample PDF resumes** (e.g. Ex1.pdf … Ex13.pdf) in the Document AI UI.
+- Download the résumé PDFs in this `PDFs/` [folder](https://github.com/sfc-gh-DShaw98/Resume-Intelligence-Lab/tree/main/PDFs)
 - These will be used to train the zero-shot model.
 
 4. **Define Values (Entities):**
