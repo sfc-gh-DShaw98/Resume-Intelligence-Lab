@@ -1,5 +1,5 @@
 ## Part 5: Build a Continuous Extracting Pipeline
-If you want new resumes staged under @RESUMES_HOL.PUBLIC.RESUMES to be processed automatically, set up a **Stream + Task** to insert new extractions into a review table.
+If you want, add the [two Test resume PDFs](PDFs/TestPDFs) to your stage @RESUMES_HOL.PUBLIC.RESUMES to be processed automatically, set up a **Stream + Task** to insert new extractions into a review table.
 
 1. **Create a Stream on the stage:**
 
