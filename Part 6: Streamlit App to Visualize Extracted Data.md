@@ -18,7 +18,6 @@ import pypdfium2 as pdfium
 
 # Establish Snowflake session
 session = get_active_session()
-session.sql("USE ROLE DOC_AI_ROLE").collect()
 
 # Mapping from candidate name → PDF filename
 pdf_mapping = {
